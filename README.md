@@ -1,9 +1,9 @@
 # Custom-Upload-On-AWS-S3-Based-On-Storage-Type
 Custom Upload on AWS S3 Based on Storage Type
 
-#Storage Type = 1 : Upload on AWS S3 Bucket<br/>
-#Storage Type = 2 : Upload on Local System<br/>
-#Storage Type = 3 : Upload on Both Local System & AWS S3 Bucket<br/>
+Storage Type = 1 : Upload on AWS S3 Bucket<br/>
+Storage Type = 2 : Upload on Local System<br/>
+Storage Type = 3 : Upload on Both Local System & AWS S3 Bucket<br/>
 
 ![Screenshot-1](https://user-images.githubusercontent.com/35772312/82662172-034bc900-9c4b-11ea-8779-e6d52e5199ce.png)
 
